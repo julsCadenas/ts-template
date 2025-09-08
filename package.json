@@ -2,7 +2,7 @@
   "name": "ts-template",
   "version": "1.0.0",
   "author": "Julian Cadenas",
-  "description": "This is a template for TypeScript projects with frontend and backend setup, including ESLint and Prettier configurations.",
+  "description": "A modern template/boilerplate for full stack TypeScript projects, including ESLint and Prettier configurations.",
   "license": "ISC",
   "keywords": [],
   "packageManager": "pnpm@10.15.1",
