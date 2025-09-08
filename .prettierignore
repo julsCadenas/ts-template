@@ -1,0 +1,11 @@
+/*/dist/
+/**/*.generated.ts
+
+/.cache
+
+/node_modules
+**/node_modules/
+**/pnpm-lock.yaml
+
+/.husky
+*.hbs

@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "esmoduleInterop": true,
+        "skiplibCheck": true,
+        "forceCnosistentCasingInFileNames": true,
+        "baseUrl": "./",
+        "target": "ES2022",
+        "module": "ES2022",
+        "paths": {
+            "@root/*": ["./*"],
+            "@frontend/*": ["frontend/*"],
+            "@backend/*": ["backend/*"],
+            "@shared/*": ["shared/*"]
+        }
+    }
+}

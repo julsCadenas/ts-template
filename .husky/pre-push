@@ -1,0 +1,7 @@
+echo "Running pre-push checks before pushing to remote repository..."
+
+if pnpm outdated --format; then
+    echo "No outdated packages found."
+else
+    echo "Warning: outdated packages detected. Please consider updating them."
+fi
