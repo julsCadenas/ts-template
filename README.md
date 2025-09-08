@@ -110,6 +110,6 @@ This template includes:
 └── pnpm-workspace.yaml        # Monorepo workspace config
 ```
 
-## ** License**
+## **License**
 
 ISC License – free for personal or commercial use.
